@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rnishant9970@gmail.com**
 
-- ⚡ Fun fact **I write short poetries**
+- ⚡ Fun fact **I am wierd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
