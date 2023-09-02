@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">A passionate frontend developer from Mumbai India</h3>
+<h3 align="center">Hello there! I'm Nishant, a passionate and driven Front-End Developer with a knack for creating user-friendly web apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdfortitude&label=NerdFortitude&color=0e75b6&style=flat" alt="nerdfortitude" /> </p>
 
